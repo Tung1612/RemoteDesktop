@@ -1,0 +1,31 @@
+E:\my program\c#\a\desktop viewer\server\server\bin\Debug\server.exe.config
+E:\my program\c#\a\desktop viewer\server\server\bin\Debug\server.exe
+E:\my program\c#\a\desktop viewer\server\server\bin\Debug\server.pdb
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.Form1.resources
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.Form2.resources
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.Properties.Resources.resources
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.exe
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.pdb
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\My Program\c#\desktop viewer\server\server\bin\Debug\server.exe.config
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.exe
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.pdb
+E:\My Program\c#\desktop viewer\server\server\bin\Debug\server.exe
+E:\My Program\c#\desktop viewer\server\server\bin\Debug\server.pdb
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.Form1.resources
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.Form2.resources
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.Properties.Resources.resources
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\bin\Debug\server.exe.config
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\bin\Debug\server.exe
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\bin\Debug\server.pdb
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.Form1.resources
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.Form2.resources
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.Properties.Resources.resources
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.exe
+D:\Download\remote-desktop-viewer-main (1)\remote-desktop-viewer-main\server\server\obj\Debug\server.pdb
