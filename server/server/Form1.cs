@@ -1,27 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace server
 {
     public partial class Form1 : Form
     {
+        // Constructor mặc định của Form
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // Hàm khởi tạo giao diện của Form
         }
 
+        // Sự kiện khi nhấn nút "Kết nối"
         private void btnKetNoi_Click(object sender, EventArgs e)
         {
+            // Mở Form2 và truyền số cổng để lắng nghe kết nối
             new Form2(int.Parse(txtPort.Text)).Show();
-            btnKetNoi.Enabled = false; // Vô hiệu hóa nút "Kết nối" để tránh việc tạo thêm nhiều kết nối.
+            // Sau khi mở Form2, vô hiệu hóa nút "Kết nối"
+            btnKetNoi.Enabled = false;
         }
     }
 }
-
